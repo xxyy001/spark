@@ -1,1 +1,1 @@
-# spark
+基于maven创建的java和scala混合变成框架，包含spark core、spark sql和spark streaming的一些基本的案例，部分基于hdfs。
