@@ -1,0 +1,16 @@
+class1 58
+class2 43
+class1 88
+class2 83
+class1 38
+class2 40
+class1 84
+class2 93
+class1 53
+class2 23
+class1 85
+class2 84
+class1 32
+class2 44
+class1 81
+class2 99
